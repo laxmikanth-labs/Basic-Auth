@@ -1,0 +1,14 @@
+C:\Practice\DotNetCore\BasicAuthClient\bin\Debug\net6.0\BasicAuthClient.exe
+C:\Practice\DotNetCore\BasicAuthClient\bin\Debug\net6.0\BasicAuthClient.deps.json
+C:\Practice\DotNetCore\BasicAuthClient\bin\Debug\net6.0\BasicAuthClient.runtimeconfig.json
+C:\Practice\DotNetCore\BasicAuthClient\bin\Debug\net6.0\BasicAuthClient.dll
+C:\Practice\DotNetCore\BasicAuthClient\bin\Debug\net6.0\BasicAuthClient.pdb
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.AssemblyInfoInputs.cache
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.AssemblyInfo.cs
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.csproj.CoreCompileInputs.cache
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.dll
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\refint\BasicAuthClient.dll
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.pdb
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\BasicAuthClient.genruntimeconfig.cache
+C:\Practice\DotNetCore\BasicAuthClient\obj\Debug\net6.0\ref\BasicAuthClient.dll
